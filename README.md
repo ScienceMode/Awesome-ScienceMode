@@ -24,3 +24,4 @@ A curated list of awesome ScienceMode projects.
 * [rehamove-integration-lib](https://github.com/humancomputerintegration/rehamove-integration-lib) by humancomputerintegration
 
 ## ScienceMode4
+* [pyScienceMode}(https://github.com/s2mLab/pyScienceMode) by aceglia
