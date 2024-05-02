@@ -25,3 +25,5 @@ A curated list of awesome ScienceMode projects.
 
 ## ScienceMode4
 * [pyScienceMode](https://github.com/s2mLab/pyScienceMode) by s2mLab and aceglia
+* [ScienceMode4_c_library_cmake](https://github.com/biospine/ScienceMode4_c_library_cmake) by biospine
+  
