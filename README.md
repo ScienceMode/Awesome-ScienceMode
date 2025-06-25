@@ -26,4 +26,6 @@ A curated list of awesome ScienceMode projects.
 ## ScienceMode4
 * [pyScienceMode](https://github.com/s2mLab/pyScienceMode) by s2mLab and aceglia
 * [ScienceMode4_c_library_cmake](https://github.com/biospine/ScienceMode4_c_library_cmake) by biospine
+* [EMG-FES-Project](https://github.com/JessicaSehrt/EMG-FES-Project) by JessicaSehrt (MR Lab, Frankfurt University of Applied Sciences)
+
   
