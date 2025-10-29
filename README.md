@@ -28,5 +28,6 @@ A curated list of awesome ScienceMode projects.
 * [ScienceMode4_c_library_cmake](https://github.com/biospine/ScienceMode4_c_library_cmake) by biospine
 * [EMG-FES-Project](https://github.com/JessicaSehrt/EMG-FES-Project) by JessicaSehrt (MR Lab, Frankfurt University of Applied Sciences)
 * [ScienceMode4-Matlab](https://github.com/biorobotics-car/p24-science-hasomed) by taniaolmo (BioRobotics Group, Spanish National Research Council)
+* [ScienceMode4Python](https://github.com/nextroundwinner/ScienceMode4Python) by nextroundwinner
 
   
