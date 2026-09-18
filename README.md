@@ -32,3 +32,4 @@ A curated list of awesome ScienceMode projects.
 * [Soft robotic glove with FES](https://github.com/spurgeah/ScienceMode4Python) by Alisa Spurgeon (BEARCAT Lab, University of Cincinnati Mechanical & Materials Engineering)
 * [P24/I24 Testsoftware](https://github.com/ScienceMode/ScienceMode_TestSoftware) by HasomedScience
 * [Combination of Capture2Go IMU and P24](https://github.com/nextroundwinner/Capture2Go_ScienceMode4) by dlaidig-ssn and nextroundwinner
+* [Combination of Lab Streaming Layer (LSL) and P24/I24](https://github.com/nextroundwinner/LSL_ScienceMode4) by nextroundwinner
